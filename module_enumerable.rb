@@ -6,12 +6,14 @@ module MyEnumerable
     end
     true
   end
+
   def any?
     each do |item|
       return true if yield(item)
     end
     false
   end
+
   def filter?(&block)
     output_arr = []
     each do |element|
@@ -20,5 +22,3 @@ module MyEnumerable
     output_arr
   end
 end
-
-

@@ -1,4 +1,4 @@
-require_relative './moduleEnumerable'
+require_relative './module_enumerable'
 
 # create a myList class
 class MyList
