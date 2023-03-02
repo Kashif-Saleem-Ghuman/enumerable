@@ -72,7 +72,6 @@ A basic understanding of Ruby and Git
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 - I will use OOPS
 - I will add other methods 
 - I will add other advanced syntax
