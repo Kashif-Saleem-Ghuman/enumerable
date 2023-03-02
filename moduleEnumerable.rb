@@ -13,8 +13,11 @@ module MyEnumerable
     false
   end
   def filter?(&block)
-    filter_result = filter(&block)
-    !filter_result.empty?
+    output_arr = []
+    each do |element|
+      output_arr << element if block.call(element) == true
+    end
+    output_arr
   end
 end
 
