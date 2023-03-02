@@ -70,6 +70,12 @@ A basic understanding of Ruby and Git
 - Twitter: [Eddy](https://twitter.com/eddy56388406)
 - LinkedIn: [Pray Eddy SHIMWA](https://www.linkedin.com/in/pray-eddy-shimwa/)
 
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+- I will use OOPS
+- I will add other methods 
+- I will add other advanced syntax
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
